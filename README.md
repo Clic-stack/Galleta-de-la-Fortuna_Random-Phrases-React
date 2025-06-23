@@ -26,7 +26,16 @@ El proyecto busca que se pongan en práctica conceptos fundamentales de React, c
 
 **🗂️Estructura del proyecto**
 
-<pre><code>```bash 📁 src/ ├── 📁 components/ │ └── 📁 data/ │ └── phrases.json ├── App.css ├── App.jsx ├── index.css └── main.jsx ```</code></pre>
+```bash
+📁 src/
+├── 📁 components/
+│   └── 📁 data/
+│       └── phrases.json
+├── App.css
+├── App.jsx
+├── index.css
+└── main.jsx
+```
 
 **🧠Funcionalidades principales**
 1. Muestra una frase aleatoria al cargar la app o al hacer clic en el botón principal.
@@ -38,12 +47,23 @@ El proyecto busca que se pongan en práctica conceptos fundamentales de React, c
 
 **🛠️Instalación local**
 1. Clona este repositorio:
-   git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git
-   cd Galleta-de-la-Fortuna_Random-Phrases-React
+
+```bash
+git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git
+cd Galleta-de-la-Fortuna_Random-Phrases-React
+```
+
 2. Instala las dependencias:
-   npm install
-3. Ejecuta la app localmente: 
-   npm run dev
+
+```bash
+npm install
+```
+
+3. Ejecuta la app localmente:
+
+```bash
+npm run dev
+```
 
 **🎨Autor**
 Desarrollado por **Clio Salgado** como parte de un proyecto de React para **Academlo** con la intención de fortalecer los fundamentos del desarrollo frontend.
@@ -79,8 +99,17 @@ This project aims to put into practice key React fundamentals, such as:
 
 **🗂️Project Structure**
 
-<pre><code>```bash 📁 src/ ├── 📁 components/ │ └── 📁 data/ │ └── phrases.json ├── App.css ├── App.jsx ├── index.css └── main.jsx ```</code></pre>
-  
+```bash
+📁 src/
+├── 📁 components/
+│   └── 📁 data/
+│       └── phrases.json
+├── App.css
+├── App.jsx
+├── index.css
+└── main.jsx
+```
+
 **🧠Main Features**
 1. Displays a random phrase on load and when clicking the main button.
 2. Changes the background randomly using predefined images in the code.
@@ -90,15 +119,24 @@ This project aims to put into practice key React fundamentals, such as:
 6. Responsive design adapted to various screen sizes and devices.
 
 **🛠️Local Installation**
-1. Clone this repository:
-   git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git
-   cd Galleta-de-la-Fortuna_Random-Phrases-React
+1. Clona este repositorio:
 
-2. Install dependencies:
-   npm install
+```bash
+git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git
+cd Galleta-de-la-Fortuna_Random-Phrases-React
+```
 
-3. Run the app locally:
-   npm run dev
+2. Instala las dependencias:
+
+```bash
+npm install
+```
+
+3. Ejecuta la app localmente:
+
+```bash
+npm run dev
+```
 
 **🎨Author**
 Developed by **Clio Salgado** as part of a React learning project for **Academlo**, aimed at strengthening core frontend development skills.
