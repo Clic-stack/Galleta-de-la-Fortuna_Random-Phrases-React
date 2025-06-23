@@ -3,7 +3,7 @@ Este commit fue desarrollado como parte de un proyecto de aprendizaje, donde el 
 Incluye cambios dinámicos en el fondo para hacerlo visualmente atractivo y entretenido, así como efectos de colores tipo led para dar vitalidad al título y botón principal, también cuenta con diversas opciones para copiar, pegar y compartir la frase que más se adapte a tí. Ideal para practicar useState, manejo de props y eventos.
 
 **🚀Demo en línea**
-**🔗**
+🔗
 
 **💡Objetivo del Proyecto**
 El proyecto busca que se pongan en práctica conceptos fundamentales de React, como:
@@ -26,14 +26,7 @@ El proyecto busca que se pongan en práctica conceptos fundamentales de React, c
 
 **🗂️Estructura del proyecto**
 
-📁 src/
-├── 📁 components/
-│   └── 📁 data/
-│       └── phrases.json
-├── App.css
-├── App.jsx
-├── index.css
-└── main.jsx
+<pre><code>```bash 📁 src/ ├── 📁 components/ │ └── 📁 data/ │ └── phrases.json ├── App.css ├── App.jsx ├── index.css └── main.jsx ```</code></pre>
 
 **🧠Funcionalidades principales**
 1. Muestra una frase aleatoria al cargar la app o al hacer clic en el botón principal.
@@ -45,25 +38,25 @@ El proyecto busca que se pongan en práctica conceptos fundamentales de React, c
 
 **🛠️Instalación local**
 1. Clona este repositorio:
-  **git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git**
-  **cd Galleta-de-la-Fortuna_Random-Phrases-React**
+   git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git
+   cd Galleta-de-la-Fortuna_Random-Phrases-React
 2. Instala las dependencias:
-  **npm install**
+   npm install
 3. Ejecuta la app localmente: 
-  **npm run dev**
+   npm run dev
 
 **🎨Autor**
 Desarrollado por **Clio Salgado** como parte de un proyecto de React para **Academlo** con la intención de fortalecer los fundamentos del desarrollo frontend.
 
 
-**************************************************** **English version below** *******************************************************************
+--------------------------------------------------------------------- **English version below** ---------------------------------------------------------------------
 
 **🍪Galleta-de-la-Fortuna_Random-Phrases-React**
 This commit was developed as part of a learning project, with the goal of building an interactive web application using Vite.js together with React to create an app that displays random phrases from a JSON file. These can be inspiring, humorous, or even reflective phrases—so, tell me: are you ready to discover what your fortune cookie has in store for you?
 It includes dynamic background changes to make it visually attractive and fun, plus LED-style color effects that bring life to the main title and button. It also features various options to copy, paste, and share the phrase that resonates most with you. Ideal for practicing useState, working with props, and handling events.
 
 **🚀Live Demo**
-**🔗**(Insert your live demo link here)
+🔗(Insert your live demo link here)
 
 **🎯Project Objective**
 This project aims to put into practice key React fundamentals, such as:
@@ -85,14 +78,8 @@ This project aims to put into practice key React fundamentals, such as:
 9. React Icons.
 
 **🗂️Project Structure**
-📁 src/
-├── 📁 components/
-│   └── 📁 data/
-│       └── phrases.json
-├── App.css
-├── App.jsx
-├── index.css
-└── main.jsx
+
+<pre><code>```bash 📁 src/ ├── 📁 components/ │ └── 📁 data/ │ └── phrases.json ├── App.css ├── App.jsx ├── index.css └── main.jsx ```</code></pre>
   
 **🧠Main Features**
 1. Displays a random phrase on load and when clicking the main button.
@@ -104,14 +91,14 @@ This project aims to put into practice key React fundamentals, such as:
 
 **🛠️Local Installation**
 1. Clone this repository:
-**git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git**
-**cd Galleta-de-la-Fortuna_Random-Phrases-React**
+   git clone https://github.com/Clic-stack/Galleta-de-la-Fortuna_Random-Phrases-React.git
+   cd Galleta-de-la-Fortuna_Random-Phrases-React
 
 2. Install dependencies:
-**npm install**
+   npm install
 
 3. Run the app locally:
-**npm run dev**
+   npm run dev
 
 **🎨Author**
 Developed by **Clio Salgado** as part of a React learning project for **Academlo**, aimed at strengthening core frontend development skills.
