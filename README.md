@@ -3,7 +3,7 @@ Este commit fue desarrollado como parte de un proyecto de aprendizaje, donde el 
 Incluye cambios dinámicos en el fondo para hacerlo visualmente atractivo y entretenido, así como efectos de colores tipo led para dar vitalidad al título y botón principal, también cuenta con diversas opciones para copiar, pegar y compartir la frase que más se adapte a tí. Ideal para practicar useState, manejo de props y eventos.
 
 **🚀Demo en línea**
-🔗
+🔗  https://galleta-de-la-fortuna-random-phrases.netlify.app
 
 **💡Objetivo del Proyecto**
 El proyecto busca que se pongan en práctica conceptos fundamentales de React, como:
@@ -76,7 +76,7 @@ This commit was developed as part of a learning project, with the goal of buildi
 It includes dynamic background changes to make it visually attractive and fun, plus LED-style color effects that bring life to the main title and button. It also features various options to copy, paste, and share the phrase that resonates most with you. Ideal for practicing useState, working with props, and handling events.
 
 **🚀Live Demo**
-🔗(Insert your live demo link here)
+🔗 https://galleta-de-la-fortuna-random-phrases.netlify.app
 
 **🎯Project Objective**
 This project aims to put into practice key React fundamentals, such as:
