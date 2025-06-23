@@ -25,6 +25,7 @@ El proyecto busca que se pongan en práctica conceptos fundamentales de React, c
 9. React Icons.
 
 **🗂️Estructura del proyecto**
+
 📁 src/
 ├── 📁 components/
 │   └── 📁 data/
@@ -55,7 +56,7 @@ El proyecto busca que se pongan en práctica conceptos fundamentales de React, c
 Desarrollado por **Clio Salgado** como parte de un proyecto de React para **Academlo** con la intención de fortalecer los fundamentos del desarrollo frontend.
 
 
-**********************************************************************************************************************       **English version below**      **********************************************************************************************************
+**************************************************** **English version below** *******************************************************************
 
 **🍪Galleta-de-la-Fortuna_Random-Phrases-React**
 This commit was developed as part of a learning project, with the goal of building an interactive web application using Vite.js together with React to create an app that displays random phrases from a JSON file. These can be inspiring, humorous, or even reflective phrases—so, tell me: are you ready to discover what your fortune cookie has in store for you?
