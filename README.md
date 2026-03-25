@@ -2,7 +2,8 @@
 This commit was developed as part of a learning project, with the goal of building an interactive web application using Vite.js together with React to create an app that displays random phrases from a JSON file. These can be inspiring, humorous, or even reflective phrases—so, tell me: are you ready to discover what your fortune cookie has in store for you?
 It includes dynamic background changes to make it visually attractive and fun, plus LED-style color effects that bring life to the main title and button. It also features various options to copy, paste, and share the phrase that resonates most with you. Ideal for practicing useState, working with props, and handling events.
 
-<img width="1872" height="998" alt="image" src="https://github.com/user-attachments/assets/bcdc3f2d-a519-46c7-85ca-fc62330a3c1a" />
+<img width="1860" height="998" alt="image" src="https://github.com/user-attachments/assets/fa62b9a8-f4be-42c0-80e1-e45c1a69d9bf" />
+
 
 
 **🚀Live Demo**
@@ -79,7 +80,8 @@ Developed by **Clio Salgado** as part of a React learning project for **Academlo
 Este commit fue desarrollado como parte de un proyecto de aprendizaje, donde el objetivo era desarrollar una aplicación web interactiva usando Vite.js, junto a React para crear una app que muestre frases aleatorias desde un archivo JSON, las cuales pueden ser frases inspiradoras, divertidas o hasta reflexivas, así que dime, ¿te animas a descubrir lo que la galleta de la fortuna tiene para tí?. 
 Incluye cambios dinámicos en el fondo para hacerlo visualmente atractivo y entretenido, así como efectos de colores tipo led para dar vitalidad al título y botón principal, también cuenta con diversas opciones para copiar, pegar y compartir la frase que más se adapte a tí. Ideal para practicar useState, manejo de props y eventos.
 
-<img width="1872" height="998" alt="image" src="https://github.com/user-attachments/assets/e0a6565f-7171-4211-b942-236849958ac6" />
+<img width="1860" height="998" alt="image" src="https://github.com/user-attachments/assets/1db79af3-a5a5-488b-8d2e-6e002bd153af" />
+
 
 
 **🚀Demo en línea**
